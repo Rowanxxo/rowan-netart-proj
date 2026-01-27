@@ -1,1 +1,1 @@
-# net-art-spring-2026
+# rowan-netart-proj
